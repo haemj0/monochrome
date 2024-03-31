@@ -1,0 +1,18 @@
+@font-face {
+    font-weight: 400;
+    font-family: "Manrope";
+    src: url(../fonts/Manrope/Manrope-Regular.ttf);
+    font-style: normal;
+}
+@font-face {
+    font-weight: 500;
+    font-family: "Manrope";
+    src: url(../fonts/Manrope/Manrope-Medium.ttf);
+    font-style: normal;
+}
+@font-face {
+    font-weight: 400;
+    font-family: "Netural";
+    src: url(../fonts/Netural/NeutralFace.otf);
+    font-style: normal;
+}
